@@ -152,3 +152,4 @@ Check the **Conditional Access** tab in each sign-in log.
 - Break-glass accounts prevent accidental lockouts
 - Legacy authentication bypasses MFA and must be blocked
 - Sign-in logs are essential for verifying policy behavior
+
