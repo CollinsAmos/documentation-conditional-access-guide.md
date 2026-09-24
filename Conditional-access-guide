@@ -126,13 +126,13 @@ Check the **Conditional Access** tab in each sign-in log.
 
 ## 📸 Screenshot Evidence
 
-![CA01 Policy Configuration](screenshots/13-ca01-mfa-admins.png)
+![CA01 Policy Configuration](screenshots:13-ca01-mfa-admins.png.docx)
 
-![CA02 Policy Configuration](screenshots/14-ca02-block-legacy-auth.png)
+![CA02 Policy Configuration](screenshots:14-ca02-block-legacy-auth.png).docx)
 
-![Sign-in Logs](screenshots/15-sign-in-logs.png)
+![Sign-in Logs](screenshots:15-sign-in-logs.png.docx)
 
-![Policy Details](screenshots/16-policy-details.png)
+![Policy Details](screenshots:16-policy-details.png.docx)
 
 ---
 
